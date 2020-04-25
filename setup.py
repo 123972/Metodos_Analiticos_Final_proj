@@ -20,12 +20,12 @@ REQUIREMENTS_PATH = ROOT_PATH / 'requirements.txt'
 #REQUIREMENTS_RQ_PATH = ROOT_PATH / 'requirement' / 'extras-rq.txt'
 
 setup(
-    name='mno_final',
+    name='metodos_analiticos_final',
     version='0.1.0',
-    description='Final Project for MNO',
+    description='Final Project for Analytic Methods',
     long_description=README_PATH.read_text(),
     long_description_content_type="text/markdown",
-    author='teams 6 and 8',
+    author='Rafael Ortega, Karla Alfaro, Gerardo Mathus',
     packages=find_packages('src'),
     package_dir={'': 'src'},
     include_package_data=True,
