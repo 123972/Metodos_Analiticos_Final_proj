@@ -1,6 +1,6 @@
-# Proyecto Final de la materia de Deep Learning de la Maestría en Ciencia de Datos
+# Proyecto Final de la materia de Métodos Analíticos de la Maestría en Ciencia de Datos
 
-**Profesor:** Francisco 
+**Profesor:** Luis Felipe González 
 
 **Integrantes del equipo**
 
