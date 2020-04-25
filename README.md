@@ -7,7 +7,8 @@
 | # | Alumno                           | Clave única |
 |---|-----------------------------------|-------------|
 | 1 | Angel Rafael Ortega Ramírez | 123972      |
-| 2 | Carlos Tabares         | CU      |
+| 2 | Karla Alfaro Pizaña         | 137314      |
+| 3 | Gerardo Mathus         | CU      |
 
 
 
